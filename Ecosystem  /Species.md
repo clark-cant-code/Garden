@@ -39,6 +39,8 @@
 - Jelly bean
 - Flapjack
 - Haworthia
+- Topsy-turvy echeveria
+- Chinese hat
 
 ### 🪴 Indoor
 - Prayer plant
@@ -79,6 +81,7 @@
 - Fly
 - Fruit fly
 - Wasp
+- Fly that looks like a little wasp
 
 ### 🍄 Microfauna and Soil Food Web
 - Springtails (elongated)
