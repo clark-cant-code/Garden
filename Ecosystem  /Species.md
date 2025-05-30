@@ -60,7 +60,6 @@
 - Hummingbird
 - Mockingbird
 - California towhee
-- Red-whiskered bulbul
 - Red-crowned parrot
 - Crow
 
