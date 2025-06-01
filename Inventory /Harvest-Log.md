@@ -4,9 +4,9 @@
 
 | May                                  | June     | 
 |--------------------------------------|----------|
-| 🥬 swiss chard        (~5 bouquets)| ...      | 
+| 🥬 swiss chard        (~5 bouquets)|       | 
 | 🍅 Brandywine tomato  (1)               |          | 
-| 🟣 Sparkler radish    (2)               |          | 
+| 🟣 Sparkler radish    (2)               |     (1)     | 
 | 💮 string bean        (~15)             |          | 
 
 
