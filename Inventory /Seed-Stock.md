@@ -20,4 +20,4 @@ our current supply
 | 20??     | var. wildflowers and grasses                                            | Lupine, California Poppy, ...                          |  distributed by the City Office of Sustainability at some kind of fair or event a long time ago (♾️)
 | 2025     | Morning Glory (*Ipomoea purpurea*)                                            | Pinwheel blend                          |  chosen by Zephyr, in the sweet potato family <br> from Armstrong Gardens (💸) <br> ⚠️ Poisonous to people and animals; have not planted
 | 2025     | Moonflower (*Ipomoea alba*)                                            | AKA White Tropical morning glory                          |  chosen by Zephyr <br> from Armstrong Gardens (💸) <br> ⚠️ Poisonous to people and animals (not as strongly as the Datura moonflower, but still) ; have not planted
-| 2025     | Marigold   |        var. red/orange/yellow                     |  seeds from the Marigolds we planted in late April (♾️)
+| 2025     | French Marigold (*tagetes patula*)  |        var. Super Hero Spry (red/orange/gold)                |  seeds from the Marigolds we planted in late April (♾️)
