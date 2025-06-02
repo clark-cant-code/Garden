@@ -8,6 +8,7 @@
 | 🍅 Brandywine tomato  (1)               |          | 
 | 🟣 Sparkler radish    (2)               |     (1)     | 
 | 💮 string bean        (~15)             |          | 
+|             |    🍀 pumpkin leaves (2)      | 
 
 
 ## 2024
