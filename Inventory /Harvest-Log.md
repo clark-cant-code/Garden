@@ -5,10 +5,10 @@
 | May                                  | June     | 
 |--------------------------------------|----------|
 | 🥬 swiss chard        (~5 bouquets)|  (1)     | 
-| 🍅 Brandywine tomato  (1)               |      (2)    | 
+| 🍅 Brandywine tomato  (1)               |      (3)    | 
 | 🟣 Sparkler radish    (2)               |     (1)     | 
 | 💮 string bean        (~15)             |      (9)    | 
-|             |    🍀 pumpkin leaves (2)      |  
+|             |    🍀 pumpkin leaves (9)      |  
 |             |    🥒 japanese cucumber (1)      |
 
 
