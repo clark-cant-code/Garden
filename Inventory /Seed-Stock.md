@@ -8,7 +8,8 @@ our current supply
 
 | **Year**     | **Species**  | **Variety**  | **Notes**  |
 |----------|----------|----------------|--------|
-| 2024     | Tomato <br> (*Solanum lycopersicum*)                   | Brandywine                        | - Cultivar dates back to at least 1886 <br> - From seedling of unknown origin that grew into 1st established crop (♾️)
+| 2024     | Tomato <br> (*Solanum lycopersicum*)                   | Brandywine                        | - Cultivar dates back to at least 1886 <br> - From seedling of unknown origin that grew into 1st established crop (♾️)  
+| 2025     | Tomato <br> (*Solanum lycopersicum*)                   | Brandywine                        | - Collected from the previous year's fruit (♾️)
 | 2024     | Tomato <br> (*Solanum lycopersicum var. cerasiforme*)  | Cherry                            |  seeds from dried-out plant found by the curb around the block (♾️)
 | 2024     | Unknown squash  | Possibly delicata? (long, orange stripes) |  Meryl had Nick save this for me after it was used for decor and then I kept it in my car for too many months (♾️)
 | 2024     | Agave (*Agave attenuata*)  |        Foxtail                     |  seeds from dried-out plant found by the curb around the block (♾️)
