@@ -4,12 +4,12 @@
 
 | Crop     | **May**                                  | **June**     | 
 |--------------------------------------|----------|-------------|
-| 🥬 swiss chard   |     ~5 bouquets|  1 bouquet ( 262 g)     | 
-| 🍅 Brandywine tomato | (1)               |     4 = (?, ?, 119 g, 289 g)   | 
-| 🟣 Sparkler radish   | 2               |     1     | 
-| 💮 string bean     |   ~15 (~30 g)             |      18 (72 g)    | 
-| 🍀 pumpkin leaves            |             |     9      |  
-| 🥒 japanese cucumber            |             |     1      |  
+| 🥬 **swiss chard**   |     ~5 bouquets|  1 bouquet ( 262 g)     | 
+| 🍅 **Brandywine tomato** | (1)               |     4 = (?, ?, 119 g, 289 g)   | 
+| 🟣 **Sparkler radish**   | 2               |     1     | 
+| 💮 **string bean**     |   ~15 (~30 g)             |      18 (72 g)    | 
+| 🍀 **pumpkin leaves**            |             |     9      |  
+| 🥒 **japanese cucumber**            |             |     1      |  
 
 Estimation notes: Started weighing mid-June and back-extrapolated weights to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
