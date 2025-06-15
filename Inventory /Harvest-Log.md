@@ -4,10 +4,10 @@
 
 | Crop     | **May**                                  | **June**     | 
 |--------------------------------------|----------|-------------|
-| 🥬 **swiss chard**   |     ~5 bouquets|  1 bouquet ( 262 g)     | 
-| 🍅 **Brandywine tomato** | (1)               |     4 = (?, ?, 119 g, 289 g)   | 
+| 🥬 **swiss chard**   |     ~5 bouquets (~1050 g)|  1 bouquet (295 g)     | 
+| 🍅 **Brandywine tomato** | (1)               |     4 = (90 g, ?, 119 g, 289 g)   | 
 | 🟣 **Sparkler radish**   | 2               |     1     | 
-| 𓇛 **string bean**     |   ~15 (~30 g)             |      18 (72 g)    | 
+| 𓇛 **string bean**     |   ~15 (~30 g)             |      30 (72 g, 38 g)    | 
 | 🍀 **pumpkin leaves**            |             |     9      |  
 | 🥒 **japanese cucumber**            |             |     2 (?, 137 g)      |  
 
