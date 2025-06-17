@@ -10,6 +10,7 @@
 - Striped century plant (*Agave Americana var. Marginata*)
 - invasive Tree of Heaven (*Ailanthus altissima*)
 - Heavenly Bamboo (*Nandina domestica*)
+- Spotted spurge (*Euphorbia maculata*)
 
 ### 🍅 Crops
 - Brandywine tomato
@@ -59,10 +60,11 @@
 - Rat
 
 ### 🦜 Birds
-- Hummingbird
+- Anna's Hummingbird (*Calypte anna*)
 - Mockingbird
 - California towhee
 - Red-crowned parrot
+- Red-whiskered bulbul
 - Crow
 
 ### 🪲 Insects
