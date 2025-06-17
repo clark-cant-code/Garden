@@ -25,6 +25,7 @@
 - Sparkler radishes
 - Japanese cucumber
 - Jalapeño pepper
+- Basil
 
 ### 🌼 Flowers
 - Marigold
@@ -77,6 +78,7 @@
 - Honeybee
 - Bumblebee
 - Grass spider
+- Jumping spider
 - Ladybug
 - Pea aphid
 - Mosquito
