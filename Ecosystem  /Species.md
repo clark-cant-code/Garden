@@ -78,7 +78,7 @@
 - Honeybee
 - Bumblebee
 - Grass spider
-- Jumping spider
+- Jumping spider: Bronze Jumper (*Eris militaris*)
 - Ladybug
 - Pea aphid
 - Mosquito
