@@ -68,7 +68,7 @@
 - Red-whiskered bulbul
 - Crow
 
-### 🪲 Insects
+### 🪲 Insects + Arachnids
 - Praying mantis (juvenile)
 - Grasshopper (juvenile and adult)
 - Katydid (juvenile)
@@ -77,11 +77,13 @@
   - Spiny Elm caterpillar (juvenile of the Mourning Cloak butterfly)
 - Honeybee
 - Bumblebee
-- Grass spider
-- Jumping spider: Bronze Jumper (*Eris militaris*)
 - Ladybug
 - Pea aphid
+- Grass spider
+- Jumping spider: Bronze Jumper (*Eris militaris*)
+- Candy stripe spider (*Enoplognatha ovata*)
 - Mosquito
+- Robber fly (*Lasiopogon*)
 - Fly
 - Fruit fly
 - Wasp
