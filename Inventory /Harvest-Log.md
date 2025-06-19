@@ -7,7 +7,7 @@
 | 🥬 **swiss chard**   |     ~5 bouquets (~1050 g)|  2 bouquets (295, 228 g)     | 1573 g | 
 | 🍅 **Brandywine tomato** | 1 (?)               |     7 (~90, ~210, 119, 289, 113, 174, 127 g)   | 1122 g |
 | 🟣 **Sparkler radish**   | 2               |     1     |  x |
-| 𓇛 **string bean**     |   ~15 (~30 g)             |      54 (72, 38, 14, 72, 17 g)    | 243 g |
+| 𓇛 **string bean**     |   ~15 (~30 g)             |      60 (72, 38, 14, 72, 17, 20 g)    | 263 g |
 | 🍀 **pumpkin leaves**            |             |     9      |  x |
 | 🥒 **japanese cucumber**            |             |     2 (~125 g, 137 g)      |  262 g |
 
