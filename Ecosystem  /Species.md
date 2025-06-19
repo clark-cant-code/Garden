@@ -64,6 +64,7 @@
 - Anna's Hummingbird (*Calypte anna*)
 - Mockingbird
 - California towhee
+- Downy woodpecker
 - Red-crowned parrot
 - Red-whiskered bulbul
 - Crow
@@ -72,10 +73,11 @@
 - Praying mantis (juvenile)
 - Grasshopper (juvenile and adult)
 - Katydid (juvenile)
-- Cabbageworm (juvenile of the Cabbage White Butterfly)
+- Cabbage White butterfly
+  - Cabbageworm (juvenile of the Cabbage White Butterfly)
 - Mourning Cloak butterfly
   - Spiny Elm caterpillar (juvenile of the Mourning Cloak butterfly)
-- Honeybee
+- Honey bee
 - Bumblebee
 - Ladybug
 - Pea aphid
