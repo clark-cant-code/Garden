@@ -63,10 +63,10 @@
 ### 🦜 Birds
 - Anna's Hummingbird (*Calypte anna*)
 - Mockingbird
-- California towhee
-- Downy woodpecker
-- Red-crowned parrot
-- Red-whiskered bulbul
+- California towhee (*Melozone crissalis*)
+- Downy woodpecker (*Picoides pubescens*)
+- Red-crowned parrot (*Amazona viridigenalis*)
+- Red-whiskered bulbul (*Pycnonotus jocosus*)
 - Crow
 
 ### 🪲 Insects + Arachnids
