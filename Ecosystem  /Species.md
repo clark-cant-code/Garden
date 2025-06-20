@@ -90,6 +90,7 @@
 - Robber fly (*Lasiopogon*)
 - Fly
 - Fruit fly
+- Crane fly
 - Wasp
 - Fly that looks like a little wasp
 
