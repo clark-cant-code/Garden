@@ -62,6 +62,7 @@
 
 ### 🦜 Birds
 - Anna's Hummingbird (*Calypte anna*)
+- Song sparrow (*Melospiza melodia*)
 - Mockingbird
 - California towhee (*Melozone crissalis*)
 - Downy woodpecker (*Picoides pubescens*)
@@ -84,6 +85,7 @@
 - Grass spider
 - Jumping spider: Bronze Jumper (*Eris militaris*)
 - Candy stripe spider (*Enoplognatha ovata*)
+- Brown marmorated stink bug (*Halyomorpha halys*)
 - Mosquito
 - Robber fly (*Lasiopogon*)
 - Fly
