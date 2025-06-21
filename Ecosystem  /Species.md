@@ -61,7 +61,8 @@
 - Rat
 
 ### 🦜 Birds
-- Anna's Hummingbird (*Calypte anna*)
+- Anna's hummingbird (*Calypte anna*)
+- Rufous hummingbird (*Selasphorus rufus*)
 - Song sparrow (*Melospiza melodia*)
 - Mockingbird
 - California towhee (*Melozone crissalis*)
