@@ -15,8 +15,8 @@ Estimation notes: Started weighing mid-June and back-extrapolated measurements t
 
 ## 2024
 
-* many Brandywine tomatoes
-* ~7 Beauregard sweet potatoes
+* many Brandywine tomatoes (appearing in September, ripe starting in October)
+* ~7 Beauregard sweet potatoes (dug these up December 22, 2024)
   
 
 
