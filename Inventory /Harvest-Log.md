@@ -7,9 +7,10 @@
 | 🥬 **swiss chard**   |     ~5 bouquets (~1050 g)|  2 bouquets (295, 228 g)     | 1573 g | 
 | 🍅 **Brandywine tomato** | 1 (~160 g)               |     13 (~90, ~210, 119, 289, 113, 174, 127, <br> 108, 161, 177, 138, 164, 117, 63 g)   | 2210 g |
 | 🟣 **Sparkler radish**   | 2               |     1     |  x |
-| 𓇛 **string bean**     |   ~15 (~30 g)             |      65 (72, 38, 14, 72, 17, 20, 18 g)    | 281 g |
+| 𓇛 **string bean**     |   ~15 (~30 g)             |      72 (72, 38, 14, 72, 17, 20, 18, 20 g)    | 301 g |
 | 🍀 **pumpkin leaves**            |             |     9      |  x |
-| 🥒 **japanese cucumber**            |             |     3 (~125 g, 137, 146 g)      |  408 g |
+| 🥒 **japanese cucumber**            |             |     3 (~125 g, 137, 146 g)      |  408 g |  
+| 🍒 **cherry tomato**            |             |     3 (12 g)      |  12 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
