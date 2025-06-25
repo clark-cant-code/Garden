@@ -93,7 +93,7 @@
 - Fruit fly
 - Crane fly
 - Wasp
-- Fly that looks like a little wasp
+- Hover fly (*Allograpta obliqua*)
 
 ### 🍄 Microfauna and Soil Food Web
 - Springtails (elongated)
