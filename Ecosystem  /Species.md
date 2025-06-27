@@ -79,6 +79,7 @@
   - Cabbageworm (juvenile of the Cabbage White Butterfly)
 - Mourning Cloak butterfly
   - Spiny Elm caterpillar (juvenile of the Mourning Cloak butterfly)
+- Monarch butterfly (ok it could have been a Viceroy)
 - Honey bee
 - Bumblebee
 - Ladybug
@@ -92,7 +93,7 @@
 - Fly
 - Fruit fly
 - Crane fly
-- Wasp
+- Paper wasp (*Polistes carnifex*)
 - Hover fly (*Allograpta obliqua*)
 
 ### 🍄 Microfauna and Soil Food Web
