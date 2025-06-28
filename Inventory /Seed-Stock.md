@@ -16,6 +16,7 @@ our current supply
 | 2023     | Pumpkin (*Cucurbita pepo*)                        | mini, decorative, orange          |  seeds from gourd given by Dior at Prep, leftover from event decor (♾️)
 | 2023     | Pumpkin (*Cucurbita pepo*)                        | mini, decorative, white           |  seeds from gourd given by Dior at Prep, leftover from event decor (♾️)
 | 2025     | Pole Bean (*Phaseolus vulgaris*)                  | Blue Lake                         |  seeds were a gift from Meryl (♾️)
+| 2025     | Pole Bean (*Phaseolus vulgaris*)                  | Blue Lake                         |  grown from above seed stock (♾️)
 | 2025     | Chard <br> (*Beta vulgaris subsp. vulgaris*)           | Fordhook Giant                    |  from Home Depot (💸)
 | 2025     | Radish                                            | Sparkler                          |  chosen by Claude-3.7-Sonnet, from Home Depot (💸)
 | 20??     | var. wildflowers and grasses                                            | Lupine, California Poppy, ...                          |  distributed by the City Office of Sustainability at some kind of fair or event a long time ago (♾️)
