@@ -79,7 +79,7 @@
   - Cabbageworm (juvenile of the Cabbage White Butterfly)
 - Mourning Cloak butterfly
   - Spiny Elm caterpillar (juvenile of the Mourning Cloak butterfly)
-- Monarch butterfly (ok it could have been a Viceroy)
+- Monarch butterfly (*Danaus plexippus)
 - Honey bee
 - Bumblebee
 - Ladybug
@@ -87,7 +87,7 @@
 - Grass spider
 - Jumping spider: Bronze Jumper (*Eris militaris*)
 - Candy stripe spider (*Enoplognatha ovata*)
-- Brown marmorated stink bug (*Halyomorpha halys*)
+- Stink bug
 - Mosquito
 - Robber fly (*Lasiopogon*)
 - Fly
