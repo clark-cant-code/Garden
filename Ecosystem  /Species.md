@@ -7,6 +7,7 @@
 - Bottlebrush
 - Bush anemone (*Carpenteria californica*)
 - Foxtail agave (*Agave attenuata*)
+- Agave "Blue Glow" (hybrid of *Agave attenuata* and *Agave ocahui*)
 - Striped century plant (*Agave Americana var. Marginata*)
 - invasive Tree of Heaven (*Ailanthus altissima*)
 - Heavenly Bamboo (*Nandina domestica*)
@@ -65,7 +66,7 @@
 - Rufous hummingbird (*Selasphorus rufus*)
 - Song sparrow (*Melospiza melodia*)
 - Mockingbird
-- California towhee (*Melozone crissalis*)
+- California towhee (*Melozone crissalis*) - nesting in brittlebush July 2025
 - Downy woodpecker (*Picoides pubescens*)
 - Red-crowned parrot (*Amazona viridigenalis*)
 - Red-whiskered bulbul (*Pycnonotus jocosus*)
