@@ -9,7 +9,7 @@
 | 🟣 **Sparkler radish**   | 2               |     1     |  |  x |
 | 𓇛 **string bean**     |   ~15 (~30 g)             |      95 (72, 38, 14, 72, 17, 20, 18, 20,  <br> 14, 20, 21, 24 g)    | 12 (14, 20, 12 g) | 426 g |
 | 🍀 **pumpkin leaves**            |             |     18 (~43, 42 g)      |  |  85 g |
-| 🥒 **japanese cucumber**            |             |     5 (~125 g, 137, 146, 169, 167 g)      | 3 (460, 368, 331 g)  | 1636 g |  
+| 🥒 **japanese cucumber**            |             |     5 (~125 g, 137, 146, 169, 167 g)      | 5 (460, 368, 331, 380, 467 g)  | 2473 g |  
 | 🍒 **cherry tomato**            |             |     3 (12 g)      | 28 (27, 21, 21, 26, 70, 37 g)  | 214 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
