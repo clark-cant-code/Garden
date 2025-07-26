@@ -11,7 +11,7 @@
 | 𓇛 **string bean**     |   ~15 (~30 g)             |      95 (72, 38, 14, 72, 17, 20, 18, 20,  <br> 14, 20, 21, 24 g)    | 41 (14, 20, 12, 14, 14, 34, 28 g) | 516 g |
 | 🍀 **pumpkin leaves**            |             |     18 (~43, 42 g)      |  |  85 g |
 | 🥒 **japanese cucumber**            |             |     5 (~125 g, 137, 146, 169, 167 g)      | 10 (460, 368, 331, 380, </br> 467, 755, 278, 238, 381, 198 g)  | 4323 g |  
-| 🍒 **cherry tomato**            |             |     3 (12 g)      | 144 (27, 21, 21, 26, 70, </br> 37, 72, 80, 63, 124, 94, </br> 84, 74, 37, 73, 29, 23 g)  | 977 g |
+| 🍒 **cherry tomato**            |             |     3 (12 g)      | 159 (27, 21, 21, 26, 70, </br> 37, 72, 80, 63, 124, 94, </br> 84, 74, 37, 73, 29, 23, 78 g)  | 1055 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
