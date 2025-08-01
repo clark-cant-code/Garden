@@ -2,6 +2,8 @@
 
 ## 2025
 
+### Summer 
+
 | Crop     | **May**                                  | **June**     |**July**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
 | 🥬 **swiss chard**   |     ~5 bouquets (~1050 g)|  2 bouquets (295, 228, 29 g)     | 2 bouquets (198, 247 g) | 2047 g | 
@@ -12,6 +14,18 @@
 | 🍀 **pumpkin leaves**            |             |     18 (~43, 42 g)      |  |  85 g |
 | 🥒 **japanese cucumber**            |             |     5 (~125 g, 137, 146, 169, 167 g)      | 10 (460, 368, 331, 380, </br> 467, 755, 278, 238, 381, 198 g)  | 4323 g |  
 | 🍒 **cherry tomato**            |             |     3 (12 g)      | 182 (27, 21, 21, 26, 70, </br> 37, 72, 80, 63, 124, 94, </br> 84, 74, 37, 73, 29, 23, 78, 18, 97 g)  | 1170 g |
+
+### Fall
+
+| Crop     | **August**                                  | **September**     |**October**     | **Totals** |
+|--------------------------------------|----------|-------------|-------------|--------------|
+| 🥬 **swiss chard**   |     |       |  |  | 
+| 🍅 **Brandywine tomato** |               |       |  |  |
+| 🟣 **mini pumpkin**   |     1 (61 g)        |         |  |  61 g |
+| 𓇛 **string bean**  |              |          |  |  |
+| 🥒 **Japanese cucumber**   |             |           |   |  |  
+| 🍒 **cherry tomato**  |    9 (46 g)         |           |   | 46 g |
+| 🌿 **Thai basil**  |       6 g      |           |   | 6 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
