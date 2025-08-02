@@ -23,7 +23,7 @@
 | 🍅 **Brandywine tomato** |               |       |  |  |
 | 🎃 **mini pumpkin**   |     1 (61 g)        |         |  |  61 g |
 | 𓇛 **string bean**  |      4 (18 g)        |          |  | 18 g |
-| 🥒 **Japanese cucumber**   |     1 (197 g)        |           |   | 197 g |  
+| 🥒 **Japanese cucumber**   |     1 (193 g)        |           |   | 193 g |  
 | 🍒 **cherry tomato**  |    18 (46, 47 g)         |           |   | 93 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 
