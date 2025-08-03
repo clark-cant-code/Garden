@@ -24,7 +24,7 @@
 | 🎃 **mini pumpkin**   |     1 (61 g)        |         |  |  61 g |
 | 𓇛 **string bean**  |      4 (18 g)        |          |  | 18 g |
 | 🥒 **Japanese cucumber**   |     1 (193 g)        |           |   | 193 g |  
-| 🍒 **cherry tomato**  |    18 (46, 47 g)         |           |   | 93 g |
+| 🍒 **cherry tomato**  |    22 (46, 47, 20 g)         |           |   | 113 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
