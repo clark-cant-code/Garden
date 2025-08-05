@@ -22,9 +22,9 @@
 | 🥬 **swiss chard**   |     |       |  |  | 
 | 🍅 **Brandywine tomato** |               |       |  |  |
 | 🎃 **mini pumpkin**   |     1 (61 g)        |         |  |  61 g |
-| 𓇛 **string bean**  |      4 (18 g)        |          |  | 18 g |
+| 𓇛 **string bean**  |      9 (18, 17 g)        |          |  | 18 g |
 | 🥒 **Japanese cucumber**   |     1 (193 g)        |           |   | 193 g |  
-| 🍒 **cherry tomato**  |    22 (46, 47, 20 g)         |           |   | 113 g |
+| 🍒 **cherry tomato**  |    27 (46, 47, 20, 16 g)         |           |   | 129 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
