@@ -81,6 +81,8 @@
 - Mourning Cloak butterfly
   - Spiny Elm caterpillar (juvenile of the Mourning Cloak butterfly)
 - Monarch butterfly (*Danaus plexippus)
+- Western tiger swallowtail (*Papilio rutulus*)
+- Red Admiral butterfly (*Vanessa atalanta*)
 - Honey bee
 - Bumblebee
 - Ladybug
