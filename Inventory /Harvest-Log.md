@@ -26,6 +26,7 @@
 | 🥒 **Japanese cucumber**   |     2 (193, 318 g)        |           |   | 511 g |  
 | 🍒 **cherry tomato**  |    34 (46, 47, 20, 16, 35 g)         |           |   | 164 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
+| 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
 
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
