@@ -20,7 +20,7 @@
 | Crop     | **August**                                  | **September**     |**October**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
 | 🥬 **swiss chard**   |     |       |  |  | 
-| 🍅 **Brandywine tomato** |               |       |  |  |
+| 🍅 **Brandywine tomato** |     1 (147 g)          |       |  | 147 g |
 | 🎃 **mini pumpkin**   |     2 (61, 63 g)        |         |  |  124 g |
 | 𓇛 **string bean**  |      11 (18, 17, 4 g)        |          |  | 22 g |
 | 🥒 **Japanese cucumber**   |     2 (193, 318 g)        |           |   | 511 g |  
