@@ -22,9 +22,9 @@
 | 🥬 **swiss chard**   |     |       |  |  | 
 | 🍅 **Brandywine tomato** |     3 (147, 129, 141 g)          |       |  | 417 g |
 | 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |         |  |  184 g |
-| 𓇛 **string bean**  |      11 (18, 17, 4 g)        |          |  | 22 g |
+| 𓇛 **string bean**  |      15 (18, 17, 4, 14 g)        |          |  |36 g |
 | 🥒 **Japanese cucumber**   |     3 (193, 318, 297 g)        |           |   | 808 g |  
-| 🍒 **cherry tomato**  |    34 (46, 47, 20, 16, 35, 103 g)         |           |   | 267 g |
+| 🍒 **cherry tomato**  |    36 (46, 47, 20, 16, 35, 111 g)         |           |   | 275 g |
 | 💛 **Lillian's yellow tomato**  |    1 (107 g)         |           |   | 107 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
