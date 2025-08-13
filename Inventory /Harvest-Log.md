@@ -29,6 +29,8 @@
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
 
+Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
+
 Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
 ## 2024
