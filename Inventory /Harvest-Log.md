@@ -24,7 +24,7 @@
 | 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |         |  |  184 g |
 | 𓇛 **string bean**  |      19 (18, 17, 4, 14, 9 g)        |          |  | 45 g |
 | 🥒 **Japanese cucumber**   |     3 (193, 318, 297 g)        |           |   | 808 g |  
-| 🍒 **cherry tomato**  |    51 (46, 47, 20, 16, 35, 111, 41, 26 g)         |           |   | 342 g |
+| 🍒 **cherry tomato**  |    51 (46, 47, 20, 16, 35, 111, <br> 41, 26 g)         |           |   | 342 g |
 | 💛 **Lillian's yellow tomato**  |    2 (107, 62 g)         |           |   | 169 g |
 | 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
