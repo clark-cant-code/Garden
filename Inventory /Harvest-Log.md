@@ -19,7 +19,7 @@
 
 | Crop     | **August**                                  | **September**     |**October**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
-| 🥬 **swiss chard**   |  stick for Muppet (7 g)   |       |  | 7 g | 
+| 🥬 **swiss chard**   |  1 bouquet (184 g)   |       |  | 184 g | 
 | 🍅 **Brandywine tomato** |     5 (147, 129, 141, 119, 12 g)          |       |  | 548 g |
 | 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |         |  |  184 g |
 | 𓇛 **string bean**  |      22 (18, 17, 4, 14, 9, 9 g)        |          |  | 71 g |
