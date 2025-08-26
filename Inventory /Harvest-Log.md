@@ -26,7 +26,7 @@
 | 🥒 **Japanese cucumber**   |     3 (193, 318, 297 g)        |           |   | 808 g |  
 | 🍒 **cherry tomato**  |    90 (46, 47, 20, 16, 35, 111, <br> 41, 26, 20, 70, 60, 67 g)         |           |   | 559 g |
 | 💛 **Lillian's yellow tomato**  |    2 (107, 62 g)         |           |   | 169 g |
-| 🌿 **Thai basil**  |       6, 2 g      |           |   | 8 g |
+| 🌿 **Thai basil**  |       6, 2, 7 g      |           |   | 15 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
