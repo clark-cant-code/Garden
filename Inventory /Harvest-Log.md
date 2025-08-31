@@ -28,6 +28,7 @@
 | 💛 **Lillian's yellow tomato**  |    2 (107, 62 g)         |           |   | 169 g |
 | 🌿 **Thai basil**  |       6, 2, 7 g      |           |   | 15 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
+| 🍀 **Sweet potato leaves**  |       25g    |           |   | 25 g |
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
 
