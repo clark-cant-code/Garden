@@ -24,11 +24,11 @@
 | 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |         |  |  184 g |
 | 𓇛 **string bean**  |      22 (18, 17, 4, 14, 9, 9 g)        |          |  | 71 g |
 | 🥒 **Japanese cucumber**   |     3 (193, 318, 297 g)        |           |   | 808 g |  
-| 🍒 **cherry tomato**  |    141 (46, 47, 20, 16, 35, 111, <br> 41, 26, 20, 70, 60, 67, 66, 40, 126 g)         |           |   | 791 g |
+| 🍒 **cherry tomato**  |    141 (46, 47, 20, 16, 35, 111, <br> 41, 26, 20, 70, 60, 67, 66, 40, 126 g)         |  6 (27 g)         |   | 818 g |
 | 💛 **Lillian's yellow tomato**  |    2 (107, 62 g)         |           |   | 169 g |
 | 🌿 **Thai basil**  |       6, 2, 7 g      |           |   | 15 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
-| 🍀 **Sweet potato leaves**  |       25g    |           |   | 25 g |
+| 🍀 **Sweet potato leaves**  |       25 g    |   67 g        |   | 92 g |
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
 
