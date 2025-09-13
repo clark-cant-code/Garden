@@ -19,9 +19,9 @@
 
 | Crop     | **August**                                  | **September**     |**October**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
-| 🥬 **swiss chard**   |  2 bouquets (184, 117 g)   |       |  | 301 g | 
+| 🥬 **swiss chard**   |  2 bouquets (184, 117 g)   |  1 bouquet (71 g)     |  | 372 g | 
 | 🍅 **Brandywine tomato** |     5 (147, 129, 141, 119, 12, 7 g)          |       |  | 555 g |
-| 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |   1 (37)      |  |  221 g |
+| 🎃 **mini pumpkin**   |     3 (61, 63, 60 g)        |   2 (37, 44)      |  |  265 g |
 | 🟢 **radish pods**   |        |    7 g    |     |  7 g |
 | 𓇛 **string bean**  |      22 (18, 17, 4, 14, 9, 9 g)        |          |  | 71 g |
 | 🥒 **Japanese cucumber**   |     3 (193, 318, 297 g)        |           |   | 808 g |  
