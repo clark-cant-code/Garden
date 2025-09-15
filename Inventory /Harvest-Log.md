@@ -28,7 +28,7 @@
 | 🍒 **cherry tomato**  |    141 (46, 47, 20, 16, 35, 111, <br> 41, 26, 20, 70, 60, 67, 66, 40, 126 g)         |  71 (27, 35, 165, 32 g)         |   | 1050 g |
 | 💛 **Lillian's yellow tomato**  |    2 (107, 62 g)         |           |   | 169 g |
 | 🌿 **Thai basil**  |       6, 2, 7 g      |           |   | 15 g |
-| 🌶️ **Jalapeño pepper**  |       1 (7g)    |           |   | 7 g |
+| 🌶️ **Jalapeño pepper**  |       1 (7g)    |    2 (42 g)       |   | 49 g |
 | 🍀 **Sweet potato leaves**  |       25 g    |   67 g        |   | 92 g |
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
