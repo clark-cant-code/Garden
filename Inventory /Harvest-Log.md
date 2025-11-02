@@ -30,6 +30,7 @@
 | 🌿 **Thai basil**  |       6, 2, 7 g      |           |   | 15 g |
 | 🌶️ **Jalapeño pepper**  |       1 (7g)    |    2 (42 g)       |   | 49 g |
 | 🍀 **Sweet potato leaves**  |       25 g    |   67 g        |   | 92 g |
+| 🍠 **Beauregard sweet potato**  |           |           | 61 g  | 61 g |
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
 
