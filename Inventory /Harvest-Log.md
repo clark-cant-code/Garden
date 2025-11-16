@@ -32,9 +32,22 @@
 | 🍀 **Sweet potato leaves**  |       25 g    |   67 g        |   | 92 g |
 | 🍠 **Beauregard sweet potato**  |           |           | 61 g  | 61 g |
 
-Gifted in a trade: 🌈🥔 rainbow potatoes (991 g)
+###Winter
 
-Estimation notes: Started weighing mid-June and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
+| Crop     | **November**             | **December**     |**January**     | **Totals** |
+|--------------------------------------|----------|-------------|-------------|--------------|
+| 🥬 **swiss chard**   |                           |            |      | 
+| 🍅 **Brandywine tomato** |              |        |            |      |
+| 🍒 **cherry tomato**  |            |             |            |      |
+| 🌿 **Thai basil**  |     18 g        |           |            | 18 g |
+| 🌶️ **Jalapeño pepper**  |          |             |            |      |
+| 🍀 **Sweet potato leaves**  |           |           |   |  |
+| 🍠 **Beauregard sweet potato**  |           |           |   |  |
+
+
+Gifted in a trade: 🌈🥔 rainbow potatoes (991 g), early August
+
+Estimation notes: Started weighing mid-June 2025 and back-extrapolated measurements to previous yield with very conservative estimates so that we can be confident of a figure like "at least X"
 
 ## 2024
 
