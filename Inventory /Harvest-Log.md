@@ -32,7 +32,7 @@
 | 🍀 **Sweet potato leaves**  |       25 g    |   67 g        |   | 92 g |
 | 🍠 **Beauregard sweet potato**  |           |           | 61 g  | 61 g |
 
-###Winter
+### Winter
 
 | Crop     | **November**             | **December**     |**January**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
