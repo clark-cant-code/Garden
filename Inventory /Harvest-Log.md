@@ -38,11 +38,11 @@
 |--------------------------------------|----------|-------------|-------------|--------------|
 | 🥬 **swiss chard**   |                           |            |      | 
 | 🍅 **Brandywine tomato** |              |        |            |      |
-| 🍒 **cherry tomato**  |   4 (19, 8 g)       |     5 (26 g)        |            |   53 g   |
+| 🍒 **cherry tomato**  |   4 (19, 8 g)       |     11 (26, 31 g)        |            |   84 g   |
 | 🌿 **Thai basil**  |     18 g        |           |            | 18 g |
 | 🌶️ **Jalapeño pepper**  |          |             |            |      |
 | 🍀 **Sweet potato leaves**  |           |           |   |  |
-| 🍠 **Beauregard sweet potato**  |           |           |   |  |
+| 🍠 **Beauregard sweet potato**  |           |  5 (298, 76, 47, 83, 363 g)         |   | 867 g |
 
 
 Gifted in a trade: 🌈🥔 rainbow potatoes (991 g), early August
