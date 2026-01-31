@@ -36,12 +36,13 @@
 
 | Crop     | **November**             | **December**     |**January**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
-| 🥬 **swiss chard**   |                           |      32 g      |  81 g    |    113 g        | 
+| 🥬 **swiss chard**   |                           |      32 g      |  81, 47 g    |    160 g        | 
 | 🍅 **Brandywine tomato** |              |        |    177 g        |  177 g    |
 | 🍒 **cherry tomato**  |   4 (19, 8 g)       |     14 (26, 31, 16 g)        |            |   100 g   |
-| 🌿 **Thai basil**  |     18 g        |           |      47, 47 g      | 112 g |
+| 🌿 **Thai basil**  |     18 g        |           |      47, 47, 39 g      | 151 g |
 | 🌶️ **Jalapeño pepper**  |          |    1 (22 g)         |      1 (9 g)      |   31 g   |
 | 🍀 **Beet greens**  |           |     14 g      | 8 g  | 22 g |
+| 🍀 **Sweet potato leaves**  |           |           | 19 g  | 19 g |
 | 🍠 **Beauregard sweet potato**  |           |  5 (298, 76, 47, 83, 363 g)         |   | 867 g |
 
 
