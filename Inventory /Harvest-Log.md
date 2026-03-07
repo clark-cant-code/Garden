@@ -11,7 +11,7 @@
 | 🌿 **Thai basil**  |       26, 23, 49 g      |      30 g         |            | 128 g       |
 | 🍠 **Beauregard sweet potato**  |    1500 g       |           |   | 1500 g |
 | 🍀 **Beet greens**  |           |     6 g      |    | 6 g |
-| 🍒 **cherry tomato**            |     19 (60 g)        |          |   | 60 g |
+| 🍒 **cherry tomato**            |             |    19 (60 g)      |   | 60 g |
 
 
 ## 2025
