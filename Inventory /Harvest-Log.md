@@ -6,10 +6,12 @@
 
 | Crop     | **February**                                  | **March**     |**April**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
-| 🥬 **swiss chard**   |    94, 22, 87 g |       |                      | 203 g | 
-| 🍀 **Sweet potato leaves**  |      20, 31 g     |           |                   |       51 g      |
-| 🌿 **Thai basil**  |       26, 23, 49 g      |               |            | 98 g       |
+| 🥬 **swiss chard**   |    94, 22, 87 g |   80 g    |                      | 283 g | 
+| 🍀 **Sweet potato leaves**  |      20, 31 g     |     23 g      |                   |       74 g      |
+| 🌿 **Thai basil**  |       26, 23, 49 g      |      30 g         |            | 128 g       |
 | 🍠 **Beauregard sweet potato**  |    1500 g       |           |   | 1500 g |
+| 🍀 **Beet greens**  |           |     6 g      |    | 6 g |
+| 🍒 **cherry tomato**            |     19 (60 g)        |          |   | 60 g |
 
 
 ## 2025
