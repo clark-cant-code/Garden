@@ -9,9 +9,10 @@
 | 🥬 **swiss chard**   |    94, 22, 87 g |   80, 60, 20 g    |                      | 363 g | 
 | 🍀 **Sweet potato leaves**  |      20, 31 g     |     23, 26, 37 g      |    34 g               |       171 g      |
 | 🌿 **Thai basil**  |       26, 23, 49 g      |      30, 41, 27, 36 g         |      22 g      | 254 g       |
+| 🌿 **Sweet mint**  |             |               |     3  g      | 3 g       |
 | 🍠 **Beauregard sweet potato**  |    1500 g       |    107 g       |   | 1607 g |
 | 🍀 **Beet greens**  |           |     6 g      |    | 6 g |
-| 🍒 **cherry tomato**            |             |    60, 74, 90 g      | 81, 77 g  | 382 g |
+| 🍒 **cherry tomato**            |             |    60, 74, 90 g      | 81, 77, 46 g  | 428 g |
 
 
 ## 2025
