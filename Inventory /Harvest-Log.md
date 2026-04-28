@@ -12,7 +12,7 @@
 | 🌿 **Sweet mint**  |             |               |     3, 4  g      | 7 g       |
 | 🍠 **Beauregard sweet potato**  |    1500 g       |    107 g       |   | 1607 g |
 | 🍀 **Beet greens**  |           |     6 g      |    | 6 g |
-| 🍒 **cherry tomato**            |             |    60, 74, 90 g      | 81, 77, 46, 46, 27 g  | 501 g |
+| 🍒 **cherry tomato**            |             |    60, 74, 90 g      | 81, 77, 46, 46, 27, 84 g  | 585 g |
 
 
 ## 2025
