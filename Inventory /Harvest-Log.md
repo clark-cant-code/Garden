@@ -2,6 +2,11 @@
 
 ## 2026
 
+### Summer 
+
+| Crop     | **May**                       | **June**     |**July**     | **Totals** |
+| 🍒 **cherry tomato**            |      80 g       |           |       | 80 g |
+
 ### Spring
 
 | Crop     | **February**                                  | **March**     |**April**     | **Totals** |
