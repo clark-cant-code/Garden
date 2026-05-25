@@ -10,7 +10,8 @@
 | 🌿 **Thai basil**  |       30 g      |               |           | 30 g       |
 | 🌶️ **Jalapeño pepper**  |       14, 17 g    |         |   | 31 g |
 | 🍀 **Sweet potato leaves**  |     33 g     |           |                 |      33 g     |
-| 🥒 **japanese cucumber**            |   133 g          |          |             |    133 g      |  
+| 🥒 **japanese cucumber**            |   133, 141 g          |          |             |    174 g      |  
+| 🌶️ **Serrano pepper**  |       6 g    |         |   | 6 g |
 
 ### Spring
 
