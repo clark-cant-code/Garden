@@ -6,12 +6,12 @@
 
 | Crop     | **May**                       | **June**     |**July**     | **Totals** |
 |--------------------------------------|----------|-------------|-------------|--------------|
-| 🍒 **cherry tomato**            |     101, 80, 19, 51 g       |    70, 114 g       |       | 435 g |
-| 🌿 **Thai basil**  |       30 g      |               |           | 30 g       |
+| 🍒 **cherry tomato**            |     101, 80, 19, 51 g       |    70, 114, 76 g       |       | 511 g |
+| 🌿 **Thai basil**  |       30, 30 g      |               |           | 60 g       |
 | 🌶️ **Jalapeño pepper**  |       14, 17 g    |         |   | 31 g |
 | 🍀 **Sweet potato leaves**  |     33 g     |           |                 |      33 g     |
-| 🥒 **japanese cucumber**            |   133, 141, 120 g          |    110, 192 g      |             |    596 g      |  
-| 🌶️ **Serrano pepper**  |       6 g    |         |   | 6 g |
+| 🥒 **japanese cucumber**            |   133, 141, 120 g          |    110, 192, 111 g      |             |    707 g      |  
+| 🌶️ **Serrano pepper**  |       6 g    |    28 g     |   | 34 g |
 
 ### Spring
 
