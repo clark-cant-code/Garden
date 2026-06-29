@@ -9,7 +9,7 @@
 | 🍒 **cherry tomato**            |     101, 80, 19, 51 g       |    70, 114, 76, 24 g       |       | 535 g |
 | 🌿 **Thai basil**  |       30 g      |      30, 68 g          |           | 128 g       |
 | 🌶️ **Jalapeño pepper**  |       14, 17 g    |         |   | 31 g |
-| 🍀 **Sweet potato leaves**  |     33 g     |           |                 |      33 g     |
+| 🍀 **Sweet potato leaves**  |     33 g     |      ~300 g     |                 |      333 g     |
 | 🥒 **japanese cucumber**            |   133, 141, 120 g          |    110, 192, 111 g      |             |    707 g      |  
 | 🌶️ **Serrano pepper**  |       6 g    |    28 g     |   | 34 g |
 
