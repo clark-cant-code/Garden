@@ -12,6 +12,7 @@
 | 🍀 **Sweet potato leaves**  |     33 g     |      ~300 g     |                 |      333 g     |
 | 🥒 **japanese cucumber**            |   133, 141, 120 g          |    110, 192, 111 g      |             |    707 g      |  
 | 🌶️ **Serrano pepper**  |       6 g    |    28 g     |   | 34 g |
+| 🍅 **Brandywine tomato** |                |     ~110 g  |   | 110 g |
 
 ### Spring
 
