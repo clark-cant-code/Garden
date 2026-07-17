@@ -8,10 +8,10 @@
 |--------------------------------------|----------|-------------|-------------|--------------|
 | 🍒 **cherry tomato**            |     101, 80, 19, 51 g       |    70, 114, 76, 24 g       |       | 535 g |
 | 🌿 **Thai basil**  |       30 g      |      30, 68 g          |    41 g       | 169 g       |
-| 🌶️ **Jalapeño pepper**  |       14, 17 g    |         |   | 31 g |
-| 🍀 **Sweet potato leaves**  |     33 g     |      ~300 g     |                 |      333 g     |
+| 🌶️ **Jalapeño pepper**  |       14, 17 g    |         | 9, 6 g  | 46 g |
+| 🍀 **Sweet potato leaves**  |     33 g     |      ~300 g     |         181 g        |      514 g     |
 | 🥒 **japanese cucumber**            |   133, 141, 120 g          |    110, 192, 111 g      |             |    707 g      |  
-| 🌶️ **Serrano pepper**  |       6 g    |    28 g     |   | 34 g |
+| 🌶️ **Serrano pepper**  |       6 g    |    28 g     | 17 g  | 34 g |
 | 🍅 **Brandywine tomato** |                |     ~110 g  |   | 110 g |
 
 ### Spring
